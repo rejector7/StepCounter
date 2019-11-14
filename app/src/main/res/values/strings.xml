@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string name="button_start_counter">Start</string>
+    <string name="button_stop_counter">Stop</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_pause">Pause</string>
+    <string name="counter_init">0</string>
+</resources>
